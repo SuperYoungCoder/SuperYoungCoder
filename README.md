@@ -14,7 +14,7 @@ in high regard.
 statistics has been of particular intrest to me. Hence, I embarked on the journey of learning statistics.
 Throughout this new joureny, I have enjoyed learning how mathematical equations and theories are derived from calculus to allow us to make inferences about data.
 However, I know that mathematical equations and theories alone will not save the day. Although addressing and analyzing emerging problems with high accuracy is very
-important, these problems can only be solved when proper solutions are in place to support them.
+important, these problems can only be solved when proper solutions are in place to support them. I am hoping that codings would solve many of the problems.
 
 <!---
 SuperYoungCoder/SuperYoungCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
